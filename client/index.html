@@ -4,6 +4,8 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="/client/src/css/style.css">
+    <!-- <link rel="manifest" href="manifest.json"> -->
+    <!-- <link rel="manifest" href="/app.webmanifest" crossorigin="use-credentials"> -->
     <title>J.A.T.E</title>
     
       <link rel="stylesheet"
@@ -27,7 +29,7 @@
      <h1> Just Another Text Editor</h1>
      
       <div class="navbar-brand" 
-            ><img src="./assets/icons/icon_96x96.png"
+            ><img src="./"
           /></div>
     </nav>
 
@@ -37,7 +39,8 @@
       </div>
     </main>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-    <script src="/server/server.js"></script>
+    <script type="module" src="/server/server.js"></script>
+    <!-- <script src="/client/webpack.config.js"></script> -->
     
   </body>
 </html>
