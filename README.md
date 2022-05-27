@@ -2,13 +2,11 @@
 
 ## Your Task
 
-As you have progressed through this course, you have put together a number of impressive projects that you can show off to potential employers. This project is no exception; in fact, it features some of the most impressive expressions of the concepts you have learned so far.
+This assignment is to build a text editor that runs in the browser using the manifest plugin. This application is supposed to have a downloadable file that can then run when the user is offline.
 
-Your task is to build a text editor that runs in the browser. The app will be a single-page application that meets the PWA criteria. Additionally, it will feature a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. The application will also function offline.
+I could not get idb installed as it shows my terminal "command not found".
 
-To build this text editor, you will start with an existing application and implement methods for getting and storing data to an IndexedDB database. You will use a package called `idb`, which is a lightweight wrapper around the IndexedDB API. It features a number of methods that are useful for storing and retrieving data, and is used by companies like Google and Mozilla.
-
-You will deploy this full-stack application to Heroku using the [Heroku Deployment Guide on The Full-Stack Blog](https://coding-boot-camp.github.io/full-stack/heroku/heroku-deployment-guide).
+I feel like I am very close to this being fully functional and I went to ASK BCS for help and was able to get my main issue solved. I will seek help from my TA in class.
 
 ## User Story
 
@@ -19,7 +17,11 @@ SO THAT I can reliably retrieve them for later use
 ```
 ## Links to GitHub
 
+<!-- GitHub Repo Page -->
+https://github.com/PolishMustard624853/Text-Editor
 
+<!-- Deployed Application -->
+https://polishmustard624853.github.io/Text-Editor/
 
 ## Video Walkthrough
 
