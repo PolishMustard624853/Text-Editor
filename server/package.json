@@ -3,6 +3,7 @@
     "version": "1.0.0",
     "description": "",
     "main": "server.js",
+    "type": "commonjs",
     "scripts": {
         "server": "cd server node server.js --ignore client"
     },
