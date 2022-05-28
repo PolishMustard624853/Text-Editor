@@ -25,14 +25,16 @@ https://polishmustard624853.github.io/Text-Editor/
 
 ## Video Walkthrough
 
-https://app.vidcast.io/share/af829cbc-5120-4004-baa3-c0a36e983353
+https://app.vidcast.io/share/31b6fe7a-03eb-446a-bed5-4a850db4a103
 
 ## Screenshots
 
-![Alt text](./screenshots/localhost_3000_.png)
+![Alt text](./screenshots/idb-storage.jpg)
 
-![Alt text](./screenshots/Keypath.jpg)
+![Alt text](./screenshots/localhost.jpg)
 
-![Alt text](./screenshots/Mainfest.jpg)
+![Alt text](./screenshots/manifest.jpg)
 
-![Alt text](./screenshots/Service-Workers.jpg)
+![Alt text](./screenshots/service-workers.jpg)
+
+![Alt text](./screenshots/Success.jpg)
